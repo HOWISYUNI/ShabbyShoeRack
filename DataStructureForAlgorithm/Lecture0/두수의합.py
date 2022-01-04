@@ -1,3 +1,5 @@
+# push 용 수정
+
 def twoSum(nums, target):
     
     for start in range(len(nums)-1):
